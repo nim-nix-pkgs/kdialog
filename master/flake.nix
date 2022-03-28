@@ -11,7 +11,6 @@
   inputs.src-kdialog-master.ref   = "refs/heads/master";
   inputs.src-kdialog-master.owner = "juancarlospaco";
   inputs.src-kdialog-master.repo  = "nim-kdialog";
-  inputs.src-kdialog-master.dir   = "";
   inputs.src-kdialog-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
