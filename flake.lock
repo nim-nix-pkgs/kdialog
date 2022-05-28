@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653689829,
-        "narHash": "sha256-SradUApbU397HXWWR9j9b/mlcj6p4mgfJWaJ04asYfs=",
+        "lastModified": 1653696431,
+        "narHash": "sha256-5itqDi+vSscRBN/ZY+3G2LO7ipfUWimIVVr3qt3JTc0=",
         "owner": "nim-nix-pkgs",
         "repo": "kdialog",
-        "rev": "09e8681d77a46fa3c399c764e777173ea5c99c47",
+        "rev": "cbe237e17b13b3e1c2761076b5f48ff6d338347b",
         "type": "github"
       },
       "original": {
